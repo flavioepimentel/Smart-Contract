@@ -17,46 +17,45 @@
 
 1 - Donwload Node Js
 ---------
-
-``
+```
 https://nodejs.org/en/download/
-``
+```
 
 2 - Install Truffle Suite
-----------------------
-``
+---------
+```
 $ npm install truffle -g
-``
+```
 
 3 - Donwload Ganache
 -------------
-``
+```
 https://www.trufflesuite.com/ganache
-``
+```
 
 4 - Install Web3.js
 ------------
-``
+```
 $ npm install web3-js
-``
+```
 
 5 - Install Chai 
 --------------
-``
+```
 $ npm install chai
-``
+```
 
 6 - Install identicon.js
 --------------
-``
+```
 $ npm install identicon.js --save
-``
+```
 
 Obs. The version of this contract runs on Solidity v0.5.16
 ------------------------
-``
+```
 https://docs.soliditylang.org/en/v0.5.16/
-``
+```
 
 
 
