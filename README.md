@@ -66,12 +66,13 @@ $ npm start
 8 - Set on cmd. from your "cd yourproject" 
 ---------
 ```
+$ truffle init
 $ truffle migrate
 ```
 9 - Open truffle console with 
 ---------
 ```
-$truffle console
+$ truffle console
 ```
 
 10 - Set 
