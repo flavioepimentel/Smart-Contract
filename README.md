@@ -57,5 +57,31 @@ Obs. The version of this contract runs on Solidity v0.5.16
 https://docs.soliditylang.org/en/v0.5.16/
 ```
 
+7 - Run localhost with 
+---------
+```
+	$ npm start
+```
+
+8 - Set on cmd. from your "cd yourproject" 
+---------
+```
+	$ truffle migrate
+```
+9 - Open truffle console with 
+---------
+```
+	$truffle console
+```
+
+10 - Set 
+---------
+```
+	$ contract = await yourproject.deployed()
+	$ contract
+```
+
+Check you contract address with 
+``contract.address`` 
 
 
