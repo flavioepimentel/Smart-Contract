@@ -1,6 +1,6 @@
 # Smart Contract
 
-![Screenshot]()
+![Screenshot](https://github.com/flavioepimentel/Smart-Contract/blob/main/JewSwap/src/logo.png)
 
 ## Cryptocurrency Token
 ------
