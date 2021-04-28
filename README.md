@@ -60,28 +60,37 @@ https://docs.soliditylang.org/en/v0.5.16/
 7 - Run localhost with 
 ---------
 ```
-	$ npm start
+$ npm start
 ```
 
 8 - Set on cmd. from your "cd yourproject" 
 ---------
 ```
-	$ truffle migrate
+$ truffle migrate
 ```
 9 - Open truffle console with 
 ---------
 ```
-	$truffle console
+$truffle console
 ```
 
 10 - Set 
 ---------
 ```
-	$ contract = await yourproject.deployed()
+	$ contract = await JewSwap.deployed()
 	$ contract
 ```
 
-Check you contract address with 
-``contract.address`` 
+Check you contract address with ``contract.address`` 
+
+11 - Run on terminal
+---------
+```
+$ truffle test
+```	
+	Resultado esperado
+
+![Screenshot](https://github.com/flavioepimentel/Smart-Contract/blob/main/test.png)
+
 
 
