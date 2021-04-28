@@ -87,8 +87,8 @@ Check you contract address with ``contract.address``
 ---------
 ```
 $ truffle test
-```	
-	Resultado esperado
+```
+Return:
 
 ![Screenshot](https://github.com/flavioepimentel/Smart-Contract/blob/main/test.png)
 
